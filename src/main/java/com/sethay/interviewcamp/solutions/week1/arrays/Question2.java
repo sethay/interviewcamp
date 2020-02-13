@@ -1,4 +1,4 @@
-package com.sethay.interviewcamp.solutions.week1.hashmap;
+package com.sethay.interviewcamp.solutions.week1.arrays;
 
 import java.util.Objects;
 
