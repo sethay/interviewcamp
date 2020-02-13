@@ -1,5 +1,6 @@
 package com.sethay.interviewcamp.solutions.week1.hashmap;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
@@ -32,7 +33,7 @@ public class Question1 {
     //First Approach
     //Iterating and searching in array if the target is present or not
     //Time Complexity: O(n2)
-    //Space Complexity: O(n)
+    //Space Complexity: O(1)
     static int[] findPair1(int[] arr,int target){
         if(arr==null){
             return null;
